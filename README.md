@@ -1,4 +1,4 @@
-### kod_asistanim
+######### kod_asistanim
 Proje Yazarı: Adınızı ve soyadınızı yazınız.
 # Projenin Adı: Kod-Asistan v0.1
 ## Projenin Amacı: Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı
